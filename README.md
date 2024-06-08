@@ -1,2 +1,2 @@
 # Hafez-divination
-this is my simple Hafez fortune-telling program
+this is my simple Hafez divination program
